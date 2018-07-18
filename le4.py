@@ -32,7 +32,7 @@ class Solution:
                     s.append(nums1[l])
                     l=l+1
                     i=i+1
-        print (s,i)
+        
 
         if totalLength%2 ==1:
           
