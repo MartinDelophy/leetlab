@@ -46,8 +46,6 @@ var mergeKLists = function (lists) {
                 loc = i;
             }
         }
-
-
         if (min != Infinity) {
             final.next = new ListNode(min);
             final = final.next;
