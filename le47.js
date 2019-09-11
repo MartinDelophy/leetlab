@@ -20,5 +20,5 @@ var permuteUnique = function (nums) {
 
 };
 
-console.log(permuteUnique([1, 2, 1]));
+console.log(permuteUnique([1, 2, 13, 4, 5]));
 
